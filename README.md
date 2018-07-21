@@ -7,12 +7,12 @@ and what breeds of dogs have the most presence on social media
 
 ## Getting Started
 
-To get a copy of the project, just clone the repository and download it to a local directory
-then open `wrangle_act.ipynb` with jupyter notebook on Conda
-
-you can then see my report
-and the results and plots I made on the dataset
-you can even rerun the code yourself
+To get a copy of the project, just clone the repository  
+and download it to a local directory  
+then open `wrangle_act.ipynb` with jupyter notebook on Conda  
+you can then see my report  
+and the results and plots I made on the dataset  
+you can even rerun the code yourself  
 
 ### Prerequisites
 
