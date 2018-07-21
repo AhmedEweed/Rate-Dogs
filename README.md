@@ -1,8 +1,9 @@
 # Rate Dogs
 
-Perform a full Data Analysis Process From Gathering, Assessing, Cleaning, Storing, Analyzing and plotting data
-on WeRateDogs hashtag twitter Data get a better idea about
-how dogs are rated and what breeds of dogs are present on the social media
+Perform a full data analysis process from gathering, assessing, cleaning,  
+storing, analyzing and plotting data on WeRateDogs hashtag twitter data  
+to get a better idea about how dogs are rated  
+and what breeds of dogs have the most presence on social media
 
 ## Getting Started
 
@@ -11,12 +12,12 @@ then open `wrangle_act.ipynb` with jupyter notebook on Conda
 
 you can then see my report
 and the results and plots I made on the dataset
-you can even rern the code yourself
+you can even rerun the code yourself
 
 ### Prerequisites
 
-you should have python version 3.4 or higher installed
-you should have jupyter notebook installed
+you should have python version 3.4 or higher installed  
+you should have jupyter notebook installed  
 you should have all the libraies imported in the `wrangle_act.ipynb` file installed
 
 
